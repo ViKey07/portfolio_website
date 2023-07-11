@@ -89,26 +89,18 @@ export const skills = [
 
 export const projects = [
     
-    // {
-    //     id: 1,
-    //     title: "Media Monks",
-    //     type: "Website",
-    //     image: "https://user-images.githubusercontent.com/99425379/223410658-285fcc08-32aa-4b2a-8c65-df8325fd9ef0.png",
-    //     description: "Media Monks is a website made to give information about organization which is made by a Temple. In this Website used advanced JavaScript concepts like mapping coordinates for images.",
-    //     techStack: ["React", "CSS", "JavaScript"],
-    //     github: "https://github.com/ViKey07/MediaMonks",
-    //     liveDemo: "https://extraordinary-cocada-8ad573.netlify.app"
-    // },
+    
     {
         id: 1,
-        title: "FMS Ecommerce Services",
+        title: "COEP Ecommerce Services",
         type: "Ecommerce Website",
-        image: "https://github.com/ViKey07/PassPhoto/assets/99425379/733a2d90-bb99-4752-a55f-9fb52ac7c80a",
-        description: "Created an Ecommerce Website for FMS Delhi College to sell college merchendise products",
-        techStack: ["React", "Django"],
-        github: "https://github.com/ViKey07/frontnew.git",
-        liveDemo: "https://frontnew-1.vikey07.repl.co/"
+        image: "https://github.com/ViKey07/PassPhoto/assets/99425379/46a06235-53f8-4cab-9a3b-af00d2faf8aa",
+        description: "Website for COEP College to sell merchendise with Razorpay Payment Gateway integration",
+        techStack: ["Bootstrap", "PHP", "JavaScript", "Ajax"],
+        github: "https://github.com/ViKey07/php_ecommerce.git",
+        liveDemo: "https://feodal-chemical.000webhostapp.com/"
     },
+    
     {
         id: 2,
         title: "Social Login",
@@ -121,6 +113,16 @@ export const projects = [
     },
     {
         id: 3,
+        title: "FMS Ecommerce Services",
+        type: "Ecommerce Website",
+        image: "https://github.com/ViKey07/PassPhoto/assets/99425379/733a2d90-bb99-4752-a55f-9fb52ac7c80a",
+        description: "Created an Ecommerce Website for FMS Delhi College to sell college merchendise products",
+        techStack: ["React", "Django"],
+        github: "https://github.com/ViKey07/frontnew.git",
+        liveDemo: "https://frontnew-1.vikey07.repl.co/"
+    },
+    {
+        id: 4,
         title: "WanderLust",
         type: "Travel Website",
         image: "https://user-images.githubusercontent.com/99425379/223410189-159e5ae4-831c-49c4-9f8f-14ea8f5c01d5.png",
@@ -130,7 +132,7 @@ export const projects = [
         liveDemo: "https://Wanderlust-frontend.vikey07.repl.co"
     },
     {
-        id: 4,
+        id: 5,
         title: "PlayStreax",
         type: "OTT PLATFORM",
         image: "https://user-images.githubusercontent.com/99425379/223411234-a6a47ba1-7f13-4996-a1c7-da8350119303.png",
@@ -140,7 +142,7 @@ export const projects = [
         liveDemo: "https://ornate-moxie-125e2c.netlify.app"
     },
     {
-        id: 5,
+        id: 6,
         title: "Calculator",
         type: "Tool",
         image: "https://user-images.githubusercontent.com/99425379/223411793-136dffaf-8f57-40cf-9e8f-7a944791ea86.png",
@@ -148,5 +150,15 @@ export const projects = [
         techStack: ["HTML", "CSS", "JavaScript"],
         github: "https://github.com/ViKey07/Projects.git",
         liveDemo: "https://radiant-concha-3c1c2a.netlify.app"
-    }
+    },
+    {
+        id: 7,
+        title: "Media Monks",
+        type: "Website",
+        image: "https://user-images.githubusercontent.com/99425379/223410658-285fcc08-32aa-4b2a-8c65-df8325fd9ef0.png",
+        description: "Media Monks is a website made to give information about organization which is made by a Temple. In this Website used advanced JavaScript concepts like mapping coordinates for images.",
+        techStack: ["React", "CSS", "JavaScript"],
+        github: "https://github.com/ViKey07/MediaMonks",
+        liveDemo: "https://extraordinary-cocada-8ad573.netlify.app"
+    },
 ]
