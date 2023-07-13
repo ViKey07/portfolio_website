@@ -21,7 +21,17 @@ export const skills = [
     },
     {
         icon: "https://cdn-icons-png.flaticon.com/512/760/760457.png",
-        title: "react",
+        title: "React",
+        tag: "frontend"
+    },
+    {
+        icon: "https://github.com/ViKey07/PassPhoto/assets/99425379/d54e41cf-770c-44d8-8e2b-dd221fb8d2ba",
+        title: "Three.Js",
+        tag: "frontend"
+    },
+    {
+        icon: "https://img.icons8.com/color/512/bootstrap.png",
+        title: "Bootstrap",
         tag: "frontend"
     },
     {
@@ -50,9 +60,9 @@ export const skills = [
         tag: "backend"
     },
     {
-        icon: "https://img.icons8.com/color/512/bootstrap.png",
-        title: "Bootstrap",
-        tag: "frontend"
+        icon: "https://github.com/ViKey07/PassPhoto/assets/99425379/8fc80fa4-54d6-4fbb-bf27-bbd0e9a9918e",
+        title: "Express.Js",
+        tag: "backend"
     },
     {
         icon: "https://img.icons8.com/ios-glyphs/512/github.png",
@@ -80,11 +90,20 @@ export const skills = [
         tag: "platform"
     },
     {
+        icon: "https://github.com/ViKey07/PassPhoto/assets/99425379/e2c449c7-a6fe-4b16-a6a8-ac682ba48e17",
+        title: "Wordpress",
+        tag: "platform"
+    },
+    {
+        icon: "https://github.com/ViKey07/PassPhoto/assets/99425379/ef71b3db-a2fc-4f56-9867-69ad606335e3",
+        title: "Shopify",
+        tag: "platform"
+    },
+    {
         icon: "https://github.com/ViKey07/PassPhoto/assets/99425379/973b48cf-be7d-4677-bbd0-055a317906e3",
         title: "Hostinger",
         tag: "platform"
-    },
-
+    }
 ]
 
 export const projects = [
