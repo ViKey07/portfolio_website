@@ -18,7 +18,7 @@ import Svg1 from '../Components/Svg1';
 import Svg2 from '../Components/Svg2';
 import Svg3 from '../Components/Svg3';
 import Slider from 'react-slick';
-import Resume from '../Resume/Ved_Resume_Bengaluru.pdf'
+import Resume from '../Resume/Ved_Resume_Beng(up).pdf'
 
 const Home = () => {
 
@@ -77,7 +77,7 @@ const Home = () => {
                             <Heading fontSize="3.3em" className='text' data-text="Vedant Kulkarni"><span className='themeText'>Vedant Kulkarni</span></Heading>
                         </Box>
                         <Text>Am a Full Stack Developer passionate and experienced in building Web applications.</Text>
-                        <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/15Dp6lv3mDUWiIk7UskuvZkUvZwnyXDhk/view?usp=drive_link", '_blank') }}>
+                        <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1XiLoBLtcnv8J7h6aE5SxUIChKFBp9mrN/view?usp=sharing", '_blank') }}>
                             <a href={Resume} download="">
                                 <Button>Resume <GoCloudDownload /></Button>
                             </a>
